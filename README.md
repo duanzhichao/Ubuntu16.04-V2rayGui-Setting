@@ -17,7 +17,7 @@
 ![](./images/fileinfo.png)
 
 双击AppImage文件启动软件,点击设置
-![](./images/v2ray_setting.png)
+![](./images/v2ray_setting.jpg)
 
 按照类似这样设置
 ![](./images/v2ray_setting2.png)
