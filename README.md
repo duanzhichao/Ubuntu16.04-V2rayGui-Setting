@@ -8,7 +8,7 @@
 ## 第一步: 下载v2ray的核心文件
 前往[`v2ray/v2ray-core` 官方Release页面](https://github.com/v2ray/v2ray-core/releases)，并下载v2ray-linux-64.zip,解压存放到你认为不经常使用的文件夹下
 
-## 第二步: 下载v2ray的核心文件
+## 第二步: 下载Qv2ray
 从 [Qv2ray GitHub Release](https://github.com/Qv2ray/Qv2ray/releases) 页面下载Qv2ray编译好AppImage
 文件,存放到你认为不经常使用的文件夹下
 
